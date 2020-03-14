@@ -1,0 +1,1 @@
+alert("Hello from GHDB for Chrome extension!")
